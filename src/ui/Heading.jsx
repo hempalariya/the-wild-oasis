@@ -9,7 +9,7 @@ const Heading   = styled.h1`
         font-size: 16px;
     `}
     font-weight: 600;
-    background-color: yellow;
+
 `
 
 export default Heading;
